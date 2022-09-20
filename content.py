@@ -1,1 +1,1 @@
-print("kgnwl")
+print("dcgta")
