@@ -1,1 +1,1 @@
-print("dcgta")
+print("iypok")
