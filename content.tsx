@@ -1,1 +1,1 @@
-console.log("lmsux")
+console.log("rtnly")
