@@ -1,1 +1,1 @@
-console.log("copea")
+console.log("buraq")
