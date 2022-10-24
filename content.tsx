@@ -1,1 +1,1 @@
-console.log("buraq")
+console.log("ilpyl")
