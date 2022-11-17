@@ -1,1 +1,1 @@
-console.log("aaxix")
+console.log("squec")
