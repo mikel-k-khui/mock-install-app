@@ -1,1 +1,1 @@
-console.log("squec")
+console.log("lmtuk")
