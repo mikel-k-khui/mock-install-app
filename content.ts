@@ -1,1 +1,1 @@
-console.log("mogir")
+console.log("xkgay")
