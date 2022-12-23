@@ -1,1 +1,1 @@
-console.log("mjyav")
+console.log("tupht")
