@@ -1,1 +1,1 @@
-console.log("tyekk")
+console.log("tplda")
