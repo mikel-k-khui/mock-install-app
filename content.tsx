@@ -1,1 +1,1 @@
-console.log("sttmr")
+console.log("sptym")
