@@ -1,1 +1,1 @@
-console.log("bcbqo")
+console.log("wkbyt")
