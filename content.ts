@@ -1,4 +1,4 @@
 console.log("cjgey")
 console.log("gwngr")
 console.log("miodm")
-console.log("fnydd")
+console.log("osall")
