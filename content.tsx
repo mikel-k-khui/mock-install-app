@@ -1,1 +1,1 @@
-console.log("hwutf")
+console.log("scsko")
