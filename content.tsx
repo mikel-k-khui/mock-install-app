@@ -1,1 +1,1 @@
-console.log("lkpwu")
+console.log("qijma")
